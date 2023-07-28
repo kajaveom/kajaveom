@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kajaveom68@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W1TEo13bO-B3ZdW1PO86VHhcQipY0v_J/view?usp=share_link]([https://drive.google.com/file/d/1W1TEo13bO-B3ZdW1PO86VHhcQipY0v_J/view?usp=share_link](https://drive.google.com/file/d/1MChxo0-xjJV5ypACuU0SEW23D-aHxWds/view?usp=sharing))
+- 📄 Know about my experiences (https://drive.google.com/file/d/1MChxo0-xjJV5ypACuU0SEW23D-aHxWds/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

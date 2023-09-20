@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Om Anil Kajave</h1>
-<h3 align="center">Pre-final Year Student at VIT Chennai || Competitive Programmer || AI & ML || Robotics</h3>
+<h3 align="center">Pre-final Year Student at VIT Chennai || Competitive Programming || AI & ML || Robotics</h3>
 
 - 💬 Ask me about **DSA, Machine Learning,Artificial Intelligence**
 
